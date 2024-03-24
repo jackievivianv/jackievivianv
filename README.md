@@ -5,13 +5,15 @@
 
 
 
-- 🔭 I’m currently working on [my own project Ocean of Om](https://github.com/jackievivianv/Ocean-Om)
+- 🔭 I’m currently working on [my project Ocean of Om](https://github.com/jackievivianv/Ocean-Om)
 
 - 🌱 I’m currently learning **Tailwind**
 
 - 👯 I’m looking to collaborate on **projects that make an impact in people's lives.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jackievivianv](https://github.com/jackievivianv)
+
+- 📝 I regularly write articles on https://www.linkedin.com/in/jackievargascabanilla/
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, React, Python, and Design.**
 
