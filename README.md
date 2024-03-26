@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my project Ocean of Om](https://github.com/jackievivianv/Ocean-Om)
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **projects that make an impact in people's lives.**
 
